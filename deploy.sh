@@ -1,2 +1,4 @@
-echo "This is for aws test"
-echo "This is for writing test"
+echo "Hii How are you"
+echo "Hii kumar"
+echo "Hii"
+echo"bhanu"
